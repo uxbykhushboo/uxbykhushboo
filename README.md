@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Khushboo 👋
 
-<!--
-**uxbykhushboo/uxbykhushboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a beginner UI/UX design learner exploring how to design simple,
+clear, and user-friendly interfaces.
 
-Here are some ideas to get you started:
+## What I’m currently learning
+- Basics of UI and UX
+- Layout, spacing, and visual hierarchy
+- HTML & CSS for simple UI practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build small UI projects
+- Learn design fundamentals step by step
+- Prepare for a UI/UX internship
+
+## Tools (learning)
+- HTML & CSS
+- Figma (beginner)
+- GitHub
+
+🌱 Learning in public and improving every day.
